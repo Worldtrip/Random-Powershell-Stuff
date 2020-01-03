@@ -1,0 +1,24 @@
+07/20/2018 04:04:50, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.19.12.10\Ping-test\test-file-10GB, 143.7281698
+07/20/2018 02:04:53, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.16.34.34\Ping-test\test-file-10GB, 140.6013409
+07/20/2018 02:04:53, 10240Mb, \\172.16.34.34\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 152.3912472
+07/20/2018 04:04:50, 10240Mb, \\172.19.12.10\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 145.1713791
+07/12/2018 19:34:32, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.31.64.10\c$\Ping-test\test-file-10GB, 515.8546286
+07/14/2018 04:11:14, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.31.64.10\Ping-test\test-file-10GB, 521.0931401
+07/15/2018 04:10:10, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.31.64.10\Ping-test\test-file-10GB, 449.2474524
+07/16/2018 04:10:15, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.31.64.10\Ping-test\test-file-10GB, 458.9290991
+07/17/2018 04:11:35, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.31.64.10\Ping-test\test-file-10GB, 541.7111351
+07/14/2018 02:10:43, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.16.34.34\Ping-test\test-file-10GB, 208.1959764
+07/15/2018 02:11:17, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.16.34.34\Ping-test\test-file-10GB, 178.8669958
+07/16/2018 02:10:34, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.16.34.34\Ping-test\test-file-10GB, 189.1149837
+07/17/2018 02:11:02, 10240Mb, C:\Ping-test\test-file-10GB -> \\172.16.34.34\Ping-test\test-file-10GB, 171.4773415
+07/12/2018 19:34:32, 10240Mb, \\172.31.64.10\c$\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 171.2289376
+07/12/2018 19:51:52, 10240Mb, \\172.31.64.10\c$\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 160.775
+07/14/2018 04:11:14, 10240Mb, \\172.31.64.10\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 153.1697659
+07/15/2018 04:10:10, 10240Mb, \\172.31.64.10\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 161.107454
+07/16/2018 04:10:15, 10240Mb, \\172.31.64.10\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 155.7921578
+07/17/2018 04:11:35, 10240Mb, \\172.31.64.10\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 151.4322868
+07/14/2018 02:10:43, 10240Mb, \\172.16.34.34\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 434.9679986
+07/15/2018 02:11:17, 10240Mb, \\172.16.34.34\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 498.0699685
+07/16/2018 02:10:34, 10240Mb, \\172.16.34.34\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 444.8030587
+07/17/2018 02:11:02, 10240Mb, \\172.16.34.34\Ping-test\test-file-10GB -> C:\Ping-test\test-file-10GB, 490.6609805
+
