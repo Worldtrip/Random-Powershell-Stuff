@@ -1,0 +1,19 @@
+$users="C:\Users\brooaj1\Documents\genesys\westusers.txt"
+$output="C:\Users\brooaj1\Documents\genesys\users2-out.csv"
+$NewCSVObject = @() 
+foreach ($user in $users) { 
+	Get-ADUser -Identity "$user" | export-csv $output
+	}
+	
+Get-Content $Users.txt | get-ADUser | select sAMAccountName,DistinguishedName | export-csv output.csv -noType 
+
+Get-Content $infileusers | Get-ADUser | Select SamAccountName,DistinguishedName | Export-Csv $output
+
+$infileusers="C:\Users\brooaj1\Documents\genesys\westusers.txt"
+$users = Get-Content $infileusers 
+
+foreach ($user in $users) { 
+	$details = Get-ADUser $user
+	
+	Move-ADObject -Identity "$details" -TargetPath "OU=Genesys Users,OU=Users,OU=CSD,OU=Organisations,DC=euser,DC=eroot,DC=eadidom,DC=com"
+}
